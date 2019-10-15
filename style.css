@@ -1,0 +1,45 @@
+/*
+    Name: Anas Ahmed
+    Email: anas_ahmed@student.uml.edu
+    Junior CS Student
+    File: Index.html created on 9/17/19
+    Function: This page serves as an index for all the GUI I Assignments
+*/
+
+html{
+  background-color: #FFFAF0;
+}
+
+h1{
+  background-color: #32CD32;
+  text-align: center;
+  border: 5px;
+  border-color: #008000;
+  border-style: outset;
+  padding: 10px;
+  font-size: 300%;
+}
+
+img {
+  max-width: 480px;
+  height: 240px;
+  float: right;
+  border: 5px;
+  border-color: #32CD32;
+}
+
+body{
+  font-size: 115%;
+}
+
+h2{
+  border: 3px;
+  border-color: #32CD32;
+  border-style: outset;
+  font-size: xx-large;
+  font-family: Tahoma, Geneva, sans-sans-serif;
+}
+
+#fafa-linkedinfa-5x{
+  color: #00BFFF;
+}
